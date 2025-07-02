@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Safdar Ali Niazi
 
-🎓 Final Year B.Tech (Industrial Design) Student at NIT Rourkela  
+🎓 B.Tech (Industrial Design) Student at NIT Rourkela  
 💻 Passionate Web Developer | OpenCV Enthusiast | Data Analyst  
 🚀 MERN Stack • Python • Flask • Machine Learning • OpenCV • Tableau  
 
